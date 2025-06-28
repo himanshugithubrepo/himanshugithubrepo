@@ -17,7 +17,7 @@ I'm a passionate and tech-driven **Sofware Engineer** with a knack for building 
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,docker,aws,postgres,mongodb,git,github,vscode,linux,py,tensorflow)
+![Tech Stack](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,mongodb,git,github,vscode,linux,py,tensorflow)
 
 > Also working with: **InfluxDB**, **Scikit Learn**, and exploring system design & architecture.
 
