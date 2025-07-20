@@ -27,12 +27,12 @@ I'm a passionate and tech-driven **Sofware Engineer** with a knack for building 
 
 ### 🚀 [AlphaFX](https://github.com/himanshugithubrepo/AlphaFX)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_ID/deploy-status)](https://alphafx.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_ID/deploy-status)](https://alphafxstudio.netlify.app)
 [![GitHub Stars](https://img.shields.io/github/stars/himanshugithubrepo/AlphaFX?style=social)](https://github.com/himanshugithubrepo/AlphaFX)
 
 A cinematic VFX portfolio web app featuring smooth animations, dark mode, and modern UI.
 
-🔗 **Live Demo**: [https://alphafx.netlify.app](https://alphafx.netlify.app)  
+🔗 **Live Demo**: [https://alphafxstudio.netlify.app] 
 🛠️ **Tech Stack**: React, Vite, Tailwind CSS, Framer Motion, Netlify
 
 ![AlphaFX Preview](https://via.placeholder.com/1000x500?text=AlphaFX+Preview)
