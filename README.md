@@ -48,7 +48,7 @@ A Django-based full-stack web app for managing and delivering educational conten
 
 ---
 
-### 📈 [Bitcoin Price Prediction System](https://github.com/himanshugithubrepo/bitcoin-price-predictor)
+### 📈 [Bitcoin Price Prediction System](https://colab.research.google.com/drive/1k4foayisTXrxwZVwm7Ji-kTbzzYPUt1Z?usp=sharing)
 
 A deep learning project using **LSTM networks** to predict future Bitcoin prices based on historical time series data.
 
