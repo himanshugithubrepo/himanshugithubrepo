@@ -9,7 +9,6 @@ I'm a passionate and tech-driven **Software Engineer** with a knack for building
 - 🧠 Constant learner: I love diving into system design, new languages, and architecture patterns.
 - 🔭 Currently building: Scalable SaaS applications & automation tools.
 - 🛠️ Tech I'm working with: **React**, **Node.js**, **Express.js**, **Docker**, **PostgreSQL**, **MongoDB**, **InfluxDB**, **Git**, **TensorFlow**, **Scikit-learn**
-- 🎯 Solved 100+ LeetCode questions
 - 🤝 Open to contributing to meaningful open-source projects.
 
 ---
